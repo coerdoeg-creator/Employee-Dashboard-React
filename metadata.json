@@ -1,0 +1,8 @@
+{
+  "name": "Employer Pro Dashboard",
+  "description": "A high-end employer dashboard for managing job listings, tracking candidate applications, and managing billing/packages with a sleek, responsive UI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
